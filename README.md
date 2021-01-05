@@ -11,8 +11,7 @@
 
 ### 无线网络
 
--   intel 无线网卡请编辑`/EFI/OC/Kexts/itlwm.kext/Contents/Info.plist`下的 WiFiConfig，设置 ssid(WiFi名，英文) 与 password(Wifi密码)。
--   
+-   intel 无线网卡请编辑`/EFI/OC/Kexts/itlwm.kext/Contents/Info.plist`下的`WiFiConfig`，设置 ssid(WiFi名，英文) 与 password(Wifi密码)。   
 
 ## 其他
 
