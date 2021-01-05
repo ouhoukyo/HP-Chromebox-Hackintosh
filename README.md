@@ -6,7 +6,7 @@
 
 ### 有线网络
 
--   请自行添加`/EFI/OC/Kexts/RealtekRTL8111.kext/Contents/Info.plist`下的`fallbackMAC`地址，例如：`01:23:45:67:89:AB`，建议**不要使用这个例子**，可以自己搜索 mac 地址随机生成。
+-   请自行添加`/EFI/OC/Kexts/RealtekRTL8111.kext/Contents/Info.plist`下的`fallbackMAC`地址，例如：`01:23:45:67:89:AB`，建议**不要使用这个例子**，可以自己搜索 mac 地址随机生成。
 -   如果显示`以太网电缆已拔出`，请点击`高级-硬件`将配置改为`手动`，将速度改为`100baseTX`。
 
 ### 无线网络
