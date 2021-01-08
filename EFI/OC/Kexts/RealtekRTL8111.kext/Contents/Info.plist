@@ -59,7 +59,7 @@
 				<key>enableTSO6</key>
 				<true/>
 				<key>fallbackMAC</key>
-				<string></string>
+				<string>2A:14:2D:C7:26:7D</string>
 				<key>intrMitigate</key>
 				<integer>53080</integer>
 				<key>rxPolling</key>
