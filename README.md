@@ -1,6 +1,6 @@
 # HP Chromebox Hackintosh
 
-基于 OpenCore 0.6.5，仅在 i7-4600u 平台上测试了 mac 10.15.7 Catalina，理论上所有的 Haswell 架构都可以使用，请自行尝试。
+基于 OpenCore 0.6.8，仅在 i7-4600u 平台上测试了 mac 10.15.7 Catalina，理论上所有的 Haswell 架构都可以使用，请自行尝试。
 
 ## 使用注意 & 存在的问题
 
