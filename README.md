@@ -1,8 +1,13 @@
-# HP Chromebox Hackintosh
+# HP Chromebox G1 (ZAKO) Hackintosh
 
-基于 OpenCore 0.7.6，仅在 i7-4600u 平台上测试了 mac 10.15.7 Catalina，理论上所有的 Haswell 架构都可以使用，请自行尝试。
+基于 OpenCore 0.8.2，仅在 i7-4600u 平台上测试了 mac 10.15.7 Catalina，理论上所有的 Haswell 架构都可以使用，请自行尝试。
 
 ## 使用注意 & 存在的问题
+
+### HD4400核心显卡
+
+-   HDMI音频没有声音请[更新BIOS](https://mrchromebox.tech/#fwscript)，注意更新之后会有一些[问题](#bios)。
+-   3840x2160分辨率下刷新率仅支持30Hz。
 
 ### Rtl有线网络
 
@@ -23,6 +28,10 @@
 
 -   连接不稳定
 -   部分蓝牙搜索不到
+
+### BIOS
+
+**更新 Coreboot 4.16 后发现关机会自动重启**，暂无修复方法。
 
 ## 其他
 
