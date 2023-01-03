@@ -35,6 +35,5 @@
 
 ## 其他
 
--   如果你在尝试使用OpenCore安装黑苹果，可以看一下[cattyhouse的oc指导教程](https://github.com/cattyhouse/oc-guide)，我是按照[这个教程](https://github.com/cattyhouse/oc-guide/blob/master/oc-dmg-install.md)来安装的，身边有1G的u盘和WiFi就可以安装。
--   我也是小白，参考了大佬的配置花了一天时间才搞定，如果安装过程有问题，请善用搜索引擎，有耐心，多尝试。
--   如果这个设备没有出手，我会持续更新本仓库。
+-   如果你在尝试使用OpenCore安装黑苹果，可以看一下[cattyhouse的oc指导教程](https://github.com/cattyhouse/oc-guide)，我是按照[这个教程](https://github.com/cattyhouse/oc-guide/blob/master/oc-dmg-install.md)来安装的，身边有1G的u盘与网线接口就可以安装。
+-   ~~如果这个设备没有出手，我会持续更新本仓库。~~  已出手，不再更新。
